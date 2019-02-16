@@ -1,0 +1,14 @@
+{
+    "name": "arus/php-coding-standard",
+    "description": "PHP Coding Standard for Arus Team",
+    "keywords": ["fenric", "arus", "autorus", "php-coding-standard", "psr-1", "psr-2"],
+    "homepage": "https://github.com/autorusltd/php-coding-standard",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Anatoly Fenric",
+            "email": "anatoly@fenric.ru",
+            "homepage": "https://anatoly.fenric.ru/"
+        }
+    ]
+}
